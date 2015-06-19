@@ -1,2 +1,2 @@
 # StatisticalInferenceProjects
-Course Data Science, Statistical Inference Projects
+The files in this repository represent my work done for the Coursera Data Science class, Statistical Inference.
